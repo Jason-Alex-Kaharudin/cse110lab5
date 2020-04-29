@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72f15d81-2a91-4fd6-96d8-1558953a357c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/junit-4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CelsiusTest">
+  <component name="RunManager" selected="JUnit.FahrenheitTest">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
       <module name="IdeaProjects" />
@@ -101,9 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="JUnit.CelsiusTest" />
         <item itemvalue="Application.TemperatureConverter" />
-        <item itemvalue="JUnit.FahrenheitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +116,7 @@
       <workItem from="1588134073466" duration="4904000" />
       <workItem from="1588141032507" duration="527000" />
       <workItem from="1588153381880" duration="61000" />
-      <workItem from="1588153449792" duration="1232000" />
+      <workItem from="1588153449792" duration="1241000" />
     </task>
     <servers />
   </component>
@@ -140,22 +136,26 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="1047" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1588137356534" />
-    <state width="1503" height="243" key="GridCell.Tab.0.bottom" timestamp="1588153443006">
+    <state x="888" y="443" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588156392661">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1503" height="243" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588153443006" />
-    <state width="1503" height="243" key="GridCell.Tab.0.center" timestamp="1588153443005">
+    <state x="888" y="443" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1057@0.23.1920.1057" timestamp="1588156392661" />
+    <state width="1503" height="243" key="GridCell.Tab.0.bottom" timestamp="1588156400564">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1503" height="243" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588153443005" />
-    <state width="1503" height="243" key="GridCell.Tab.0.left" timestamp="1588153443005">
+    <state width="1503" height="243" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588156400564" />
+    <state width="1503" height="243" key="GridCell.Tab.0.center" timestamp="1588156400564">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1503" height="243" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588153443005" />
-    <state width="1503" height="243" key="GridCell.Tab.0.right" timestamp="1588153443006">
+    <state width="1503" height="243" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588156400564" />
+    <state width="1503" height="243" key="GridCell.Tab.0.left" timestamp="1588156400563">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1503" height="243" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588153443006" />
+    <state width="1503" height="243" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588156400563" />
+    <state width="1503" height="243" key="GridCell.Tab.0.right" timestamp="1588156400564">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1503" height="243" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588156400564" />
     <state width="1047" height="198" key="GridCell.Tab.1.bottom" timestamp="1588137584313">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
