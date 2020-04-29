@@ -4,6 +4,7 @@
     <list default="true" id="72f15d81-2a91-4fd6-96d8-1558953a357c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +117,7 @@
       <workItem from="1588134073466" duration="4904000" />
       <workItem from="1588141032507" duration="527000" />
       <workItem from="1588153381880" duration="61000" />
-      <workItem from="1588153449792" duration="1241000" />
+      <workItem from="1588153449792" duration="1536000" />
     </task>
     <servers />
   </component>
